@@ -41,9 +41,9 @@ Today, I built a **simple dynamic counter app** that increments the number when 
 
 ## 🧪 Output Screenshot
 
-```markdown
-![Day 4 Counter App Screenshot](./screenshot.png)
-```
+
+![Day 4 Counter App Screenshot](./day04-screenshot.png)
+
 
 ---
 
