@@ -32,6 +32,4 @@ Today was all about enhancing my React skills with some core concepts:
 
 ### 📸 Output Screenshot
 
-> Add a screenshot here if you have one  
-```markdown
-![Day 05 Output](./screenshot.png)
+![Day 05 Output](./day05-ss.png)
