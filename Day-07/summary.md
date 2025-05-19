@@ -45,6 +45,4 @@ I built a simple multi-page React app with:
 
 ### 📸 Output Screenshot
 
-> Add a screenshot below if available  
-```markdown
 ![Day 07 Output](./screenshot.png)
