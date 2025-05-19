@@ -45,4 +45,4 @@ I built a simple multi-page React app with:
 
 ### 📸 Output Screenshot
 
-![Day 07 Output](./screenshot.png)
+![Day 07 Output](./day07-screenshot.png)
